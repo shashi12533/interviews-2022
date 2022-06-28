@@ -1,5 +1,5 @@
 import gc
-
+# time complexity 0(1)
 
 class DoublyLinkedList:
 
